@@ -9,7 +9,7 @@ public class NewTest {
 
             System.out.println("键盘输入的内容是："+sc.next());
 
-
+            System.out.println("nihao");
         }
     }
 }
